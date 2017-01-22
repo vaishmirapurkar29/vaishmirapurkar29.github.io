@@ -5,7 +5,7 @@ var bio = {
         "email": "vaishanavi.mirapurkar@gmail.com",
         "phone": "+1(682)-225-9764",
         "github": "vaishmirapurkar29",
-        "LinkedIn": "https://www.linkedin.com/in/vaishanavi-mirapurkar-916026107",
+        "LinkedIn": "https://www.linkedin.com/in/vaishmirapurkar",
         "location": "400 S. Oak St. Arlington, TX, USA"
     },
     "skills": ["HTML5", "CSS3", "Bootstrap", "JavaScript"],
