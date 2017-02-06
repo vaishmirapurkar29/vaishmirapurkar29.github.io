@@ -125,15 +125,16 @@ var projects = {
             "dates": "2016",
             "description": "Front-end of a responsive web blog developed using HTML5, CSS3, and responsive images.",
             "url": "https://github.com/vaishmirapurkar29/Responsive-Web-Blog",
-            "images": ["images/responsiveBlog2.png"]
+            "images": ["images/Blog.png","images/Portfolio (2).png"]
 
         },
 
         {
-            "title": "FEND responsive website ",
-            "dates": "2016",
-            "description": "Front-end of a responsive website developed using HTML5, CSS3, Bootstrap and responsive images.",
-            "images": ["images/portfolio.png"]
+            "title": "Arcade Game Clone ",
+            "dates": "2017",
+            "description": "1.Creating the clone of the famous Frogger game using object-oriented JavaScript, HTML5, CSS3.<br>"
+                            +"2.Basic functionality involves a player and enemies. The goal of the player is to reach the water without colliding with the enemies.",
+            "images": ["images/Arcade.png"]
 
         },
 
@@ -142,7 +143,8 @@ var projects = {
         {
             "title": "University Bazaar System",
             "dates": "2016",
-            "description": "An Android application with multiple functions to facilitate easy networking between the students of UT Arlington",
+            "description": "1.An Android application with multiple functions to facilitate easy networking between the students of UT Arlington.<br>"
+                           +"2.The App allowed students to interact via a communication system, form clubs and buy/sell/exchange items.",
             "images": []
         }
     ]
