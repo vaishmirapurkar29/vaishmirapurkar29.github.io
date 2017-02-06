@@ -66,7 +66,10 @@ var work = {
             "title": "Resident Assistant",
             "location": "Arlington, TX",
             "dates": "2016-future",
-            "description": "Develop a sense of community among the residents. Facilitate social, economic, and personal adjustment and well-being of residents to university life.Enforce the rules and policies of residence life and housing, and responsible for good conduct in the residential area.Serve as a positive role-model for the residents and peer staff members."
+            "description": "1.Develop a sense of community among the residents.<br>"
+                           + "2.Facilitate social, economic, and personal adjustment and well-being of residents to university life.<br>"
+                           +"3.Enforce the rules and policies of residence life and housing, and responsible for good conduct in the residential area.<br>"
+                           +"4.Serve as a positive role-model for the residents and peer staff members."
 
         },
 
@@ -75,7 +78,10 @@ var work = {
             "title": "Peer Leader",
             "location": "Arlington, TX",
             "dates": "August, 2016-December, 2016",
-            "description": "Assist with class activities and teaching with lead instructor.Help freshmen students by serving as a resource and answering their questions.Develop a positive relationship with students. Share a love for UT Arlington and encourage campus involvement."
+            "description": "1.Assist with class activities and teaching with lead instructor.<br>"
+                            +"2.Help freshmen students by serving as a resource and answering their questions.<br>"
+                            +"3.Develop a positive relationship with students.<br>"
+                            +"4.Share a love for UT Arlington and encourage campus involvement."
 
         },
 
@@ -84,7 +90,9 @@ var work = {
             "title": "Research Assistant",
             "location": "Arlington, TX",
             "dates": "May, 2016-August, 2016",
-            "description": "Conduct research on system-assigned recognition-based passwords as an alternative to user-chosen passwords for better security.Conduct research on the use of various cues (graphical, spatial etc.) to boost password memorability.Devise an authentication system based on system-assigned passwords for users with learning disabilities."
+            "description": "1.Conduct research on system-assigned recognition-based passwords as an alternative to user-chosen passwords for better security.<br>"
+                            +"2.Conduct research on the use of various cues (graphical, spatial etc.) to boost password memorability.<br>"
+                            +"3.Devise an authentication system based on system-assigned passwords for users with learning disabilities."
 
         }
 
