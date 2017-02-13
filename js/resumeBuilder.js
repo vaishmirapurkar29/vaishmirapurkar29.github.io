@@ -142,7 +142,7 @@ var projects = {
             "dates": "2017",
             "description": "1.Creating the clone of the famous Frogger game using object-oriented JavaScript, HTML5, CSS3.<br>"
                             +"2.Basic functionality involves a player and enemies. The goal of the player is to reach the water without colliding with the enemies.",
-            "images": ["images/Arcade.png"]
+            "images": ["images/arcade.png"]
 
         },
 
@@ -154,7 +154,17 @@ var projects = {
             "description": "1.An Android application with multiple functions to facilitate easy networking between the students of UT Arlington.<br>"
                            +"2.The App allowed students to interact via a communication system, form clubs and buy/sell/exchange items.",
             "images": []
-        }
+        },
+                 
+        {
+                 
+            "title": "Help Me Move",
+            "dates": "2016",
+            "description": "1.Creating an interactive website with attractive web pages to make the moving process easy for UT Arlington students by making available local transportation at reasonable prices.<br>"
+                           +"2.Features a sale page that lists home décor items being sold at affordable prices and forums to guide people who have newly moved to the area.<br>"
+                           +"3.Being developed using HTML5, CSS3, Bootstrap, and JavaScript and jQuery.",
+            "images": ["images/hmm1.png","images/hmm2.png"]
+         }
     ]
 
 };
