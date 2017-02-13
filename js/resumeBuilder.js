@@ -1,6 +1,6 @@
 var bio = {
     "name": "Vaishanavi Mirapurkar",
-    "role": "Front-end Web Developer",
+    "role": "Front-End Web Developer",
     "contacts": {
         "email": "vaishanavi.mirapurkar@gmail.com",
         "phone": "+1(682)-225-9764",
