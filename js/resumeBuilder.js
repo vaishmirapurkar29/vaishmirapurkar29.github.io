@@ -8,7 +8,7 @@ var bio = {
         "LinkedIn": "https://www.linkedin.com/in/vaishmirapurkar",
         "location": "400 S. Oak St. Arlington, TX, USA"
     },
-    "skills": ["HTML5", "CSS3", "Bootstrap", "JavaScript"],
+    "skills": ["HTML5", "CSS3", "Bootstrap", "JavaScript","jQuery"],
     "welcomeMessage": "Welcome to my Resume!",
     "biopic": "images/mypic.jpg"
 };
